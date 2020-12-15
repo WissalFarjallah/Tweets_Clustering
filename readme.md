@@ -8,6 +8,6 @@ Mots clés:
 
 ==> Tweeter, API, NLP, nltk, Kmeans, Clustering
 
-![Visualisation des Tweets en fonction des Clusters](https://github.com/nevermind78/Proba_stat_4_LM/blob/master/CH0/monty_widget.png)
+![Visualisation des Tweets en fonction des Clusters](https://github.com/WissalFarjallah/Tweets_Clustering/blob/main/tweet.gif)
 
 
