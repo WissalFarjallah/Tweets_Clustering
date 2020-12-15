@@ -1,0 +1,16 @@
+name: example-environment
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - scikit-learn
+  - matplotlib
+  - opencv
+  - nltk      
+  - tweepy   
+  - re        
+  - cv2      
+  - seaborn   
+  - logging   
+  - pandas    
+  - numpy 
