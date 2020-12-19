@@ -7,10 +7,7 @@ dependencies:
   - matplotlib
   - opencv
   - nltk      
-  - tweepy   
-  - re        
-  - cv2      
-  - seaborn   
-  - logging   
+  - tweepy        
+  - seaborn     
   - pandas    
   - numpy 
