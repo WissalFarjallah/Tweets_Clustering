@@ -12,4 +12,6 @@ dependencies:
   - pandas    
   - numpy 
   - wordcloud
-  - stylecloud
+  - icon-font-to-png
+  - palettable
+  - fire
